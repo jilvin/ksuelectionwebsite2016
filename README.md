@@ -1,5 +1,5 @@
 # ksuelectionwebsite2016
-Files used for KSU CET Unit Election Website for the year 2016.
+Website used for college union election campaign for the year 2016 by KSU CET Unit.
 
 Created by : Shabeeb (@shabeebrp)
 
